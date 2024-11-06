@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Crowd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EC542E-1987-4E0C-9CC8-BFBE05CFC311}|AlgorandCrowdfund\\AlgorandCrowdfund.csproj|f:\\crowd\\algorandcrowdfund\\controllers\\requestfundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EC542E-1987-4E0C-9CC8-BFBE05CFC311}|AlgorandCrowdfund\\AlgorandCrowdfund.csproj|solutionrelative:algorandcrowdfund\\controllers\\requestfundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EC542E-1987-4E0C-9CC8-BFBE05CFC311}|AlgorandCrowdfund\\AlgorandCrowdfund.csproj|f:\\crowd\\algorandcrowdfund\\controllers\\funderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EC542E-1987-4E0C-9CC8-BFBE05CFC311}|AlgorandCrowdfund\\AlgorandCrowdfund.csproj|solutionrelative:algorandcrowdfund\\controllers\\funderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EC542E-1987-4E0C-9CC8-BFBE05CFC311}|AlgorandCrowdfund\\AlgorandCrowdfund.csproj|f:\\crowd\\algorandcrowdfund\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2EC542E-1987-4E0C-9CC8-BFBE05CFC311}|AlgorandCrowdfund\\AlgorandCrowdfund.csproj|solutionrelative:algorandcrowdfund\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestFundsController.cs",
+              "DocumentMoniker": "F:\\Crowd\\AlgorandCrowdfund\\Controllers\\RequestFundsController.cs",
+              "RelativeDocumentMoniker": "AlgorandCrowdfund\\Controllers\\RequestFundsController.cs",
+              "ToolTip": "F:\\Crowd\\AlgorandCrowdfund\\Controllers\\RequestFundsController.cs",
+              "RelativeToolTip": "AlgorandCrowdfund\\Controllers\\RequestFundsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:40:14.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FundersController.cs",
+              "DocumentMoniker": "F:\\Crowd\\AlgorandCrowdfund\\Controllers\\FundersController.cs",
+              "RelativeDocumentMoniker": "AlgorandCrowdfund\\Controllers\\FundersController.cs",
+              "ToolTip": "F:\\Crowd\\AlgorandCrowdfund\\Controllers\\FundersController.cs",
+              "RelativeToolTip": "AlgorandCrowdfund\\Controllers\\FundersController.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwJUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:15:39.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\Crowd\\AlgorandCrowdfund\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AlgorandCrowdfund\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "F:\\Crowd\\AlgorandCrowdfund\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AlgorandCrowdfund\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T08:02:59.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
